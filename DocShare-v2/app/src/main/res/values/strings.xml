@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DocShare</string>
+
+    <string name="esqueci_senha"><u>Esqueci minha senha</u></string>
+
+    <string-array name="formOSLocacao">
+        <item>Selecione uma locação:</item>
+        <item>Un. Recife I</item>
+        <item>Un. Recife II</item>
+        <item>Un. Camaragibe</item>
+    </string-array>
+
+    <string-array name="cargos">
+        <item>Selecione seu cargo:</item>
+        <item>Operador Técnico</item>
+        <item>Engenheiro Elétrico</item>
+        <item>Agente de Campo</item>
+        <item>Supervisor de Manutenção</item>
+    </string-array>
+
+    <string-array name="setores">
+        <item>Selecione seu setor:</item>
+        <item>Engenharia</item>
+        <item>Manutenção</item>
+        <item>Qualidade</item>
+    </string-array>
+
+    <string name="cadastro"><u>Cadastre-se</u></string>
+    <string name="informaSite"><u>informa.com.br</u></string>
+
+    <string name="inicio">Início</string>
+
+    <string name="historico">Histórico</string>
+
+    <string name="configuracoes">Configurações</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

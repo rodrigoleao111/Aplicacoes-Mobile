@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".usuario.TelaDeUsuario">
+
+
+
+    <ImageView
+        android:id="@+id/profilePic"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="30dp"
+        android:elevation="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/random_profile_picture" />
+
+
+
+    <TextView
+        android:id="@+id/txt_boas_vindas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Olá, #userFirstName"
+        android:textColor="@color/soft_black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profilePic" />
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Histórico de Atividades"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/soft_black"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/containerComponentMain"
+        app:layout_constraintStart_toStartOf="@+id/containerComponentMain"
+        app:layout_constraintTop_toBottomOf="@+id/txt_boas_vindas" />
+
+    <View
+        android:id="@+id/containerComponentMain"
+        style="@style/ContainerLogin"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:background="@drawable/container_components"
+        android:elevation="8dp"
+        app:flow_horizontalAlign="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt" />
+
+    <ImageView
+        android:id="@+id/image_bt_nova_os"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/image_historico"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/containerComponentMain"
+        app:srcCompat="@drawable/bt_nova_os_novo" />
+
+    <ImageView
+        android:id="@+id/image_configuracoes"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/image_historico"
+        app:layout_constraintTop_toBottomOf="@+id/containerComponentMain"
+        app:srcCompat="@drawable/bt_configuracoes_novo" />
+
+    <ImageView
+        android:id="@+id/image_historico"
+        android:layout_width="105dp"
+        android:layout_height="105dp"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/containerComponentMain"
+        app:layout_constraintStart_toStartOf="@+id/containerComponentMain"
+        app:layout_constraintTop_toBottomOf="@+id/containerComponentMain"
+        app:srcCompat="@drawable/bt_historico_novo" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

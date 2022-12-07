@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        tools:context=".outros.VizualizarForm">
+
+        <View
+            android:id="@+id/containerView1"
+            style="@style/ContainerLogin"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="-40dp"
+            android:background="@drawable/container_components"
+            android:elevation="10dp"
+            app:layout_constrainedHeight="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="@+id/imagePreview"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/vwInfoUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:elevation="10dp"
+            android:text="Informações do colaborador"
+            android:textStyle="bold"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/containerView1" />
+
+        <TextView
+            android:id="@+id/vwNome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Nome:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwInfoUser" />
+        <TextView
+            android:id="@+id/txtNome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwNome"
+            app:layout_constraintTop_toTopOf="@+id/vwInfoUser" />
+
+        <TextView
+            android:id="@+id/vwRG"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="RG:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwNome" />
+        <TextView
+            android:id="@+id/txtRG"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwRG"
+            app:layout_constraintTop_toTopOf="@+id/txtNome" />
+
+        <TextView
+            android:id="@+id/vwCPF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="CPF:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwRG" />
+        <TextView
+            android:id="@+id/txtCPF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwCPF"
+            app:layout_constraintTop_toTopOf="@+id/txtRG" />
+
+        <TextView
+            android:id="@+id/vwSetor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Setor:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwCPF" />
+        <TextView
+            android:id="@+id/txtSetor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwSetor"
+            app:layout_constraintTop_toTopOf="@+id/txtCPF" />
+
+        <TextView
+            android:id="@+id/vwCargo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Cargo:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwSetor" />
+        <TextView
+            android:id="@+id/txtCargo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwCargo"
+            app:layout_constraintTop_toTopOf="@+id/txtSetor" />
+
+        <TextView
+            android:id="@+id/vwTelefone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Telefone:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwCargo" />
+        <TextView
+            android:id="@+id/txtTelefone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwTelefone"
+            app:layout_constraintTop_toTopOf="@+id/txtCargo" />
+
+        <TextView
+            android:id="@+id/vwEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="E-mail:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwTelefone" />
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwEmail"
+            app:layout_constraintTop_toTopOf="@+id/txtTelefone" />
+
+        <TextView
+            android:id="@+id/vwInfoEquip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:elevation="10dp"
+            android:text="Equipamento | Ativo"
+            android:textStyle="bold"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toBottomOf="@+id/txtEmail" />
+
+        <TextView
+            android:id="@+id/vwLocacao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Locação:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwInfoEquip" />
+        <TextView
+            android:id="@+id/txtLocacao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwLocacao"
+            app:layout_constraintTop_toTopOf="@+id/vwInfoEquip" />
+
+        <TextView
+            android:id="@+id/vwEquipamento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Equipamento:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwLocacao" />
+        <TextView
+            android:id="@+id/txtEquipamento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwEquipamento"
+            app:layout_constraintTop_toTopOf="@+id/vwLocacao" />
+
+        <TextView
+            android:id="@+id/vwModelo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Modelo:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwEquipamento" />
+        <TextView
+            android:id="@+id/txtModelo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwModelo"
+            app:layout_constraintTop_toTopOf="@+id/vwEquipamento" />
+
+        <TextView
+            android:id="@+id/vwEquipID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Código de identificação:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwModelo" />
+        <TextView
+            android:id="@+id/txtEquipID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwEquipID"
+            app:layout_constraintTop_toTopOf="@+id/vwModelo" />
+
+        <TextView
+            android:id="@+id/vwInfoManutencao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:elevation="10dp"
+            android:text="Informações da Manutenção"
+            android:textStyle="bold"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toBottomOf="@+id/txtEquipID" />
+
+        <TextView
+            android:id="@+id/vwDiag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Diagnóstico:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toTopOf="@+id/vwInfoManutencao" />
+        <TextView
+            android:id="@+id/txtDiag"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwDiag"
+            app:layout_constraintTop_toTopOf="@+id/vwInfoManutencao" />
+
+        <TextView
+            android:id="@+id/vwSolucao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Solução:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toBottomOf="@+id/txtDiag" />
+        <TextView
+            android:id="@+id/txtSolucao"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwSolucao"
+            app:layout_constraintTop_toBottomOf="@+id/txtDiag" />
+
+        <TextView
+            android:id="@+id/vwTroca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Peças trocadas:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toBottomOf="@+id/txtSolucao" />
+        <TextView
+            android:id="@+id/txtTroca"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwTroca"
+            app:layout_constraintTop_toBottomOf="@+id/txtSolucao" />
+
+        <TextView
+            android:id="@+id/vwOBS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="Observações:"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toBottomOf="@+id/txtTroca" />
+        <TextView
+            android:id="@+id/txtOBS"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:elevation="10dp"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/vwOBS"
+            app:layout_constraintTop_toBottomOf="@+id/txtTroca" />
+
+        <TextView
+            android:id="@+id/vwInfoImagem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:elevation="10dp"
+            android:text="Descrição da imagem"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:visibility="invisible"
+            app:layout_constraintStart_toStartOf="@+id/containerView1"
+            app:layout_constraintTop_toBottomOf="@+id/txtOBS" />
+
+        <ImageView
+            android:id="@+id/imagePreview"
+            android:layout_width="128dp"
+            android:layout_height="128dp"
+            android:elevation="12dp"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/vwInfoImagem"
+            app:layout_constraintStart_toStartOf="@+id/vwInfoImagem"
+            app:layout_constraintTop_toBottomOf="@+id/vwInfoImagem"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/txtDescricao"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:layout_marginStart="10dp"
+            android:visibility="invisible"
+            android:text="xxxxxxxxxxxxx"
+            android:textColor="@color/soft_black"
+            android:textSize="14dp"
+            app:layout_constraintStart_toEndOf="@+id/imagePreview"
+            app:layout_constraintTop_toBottomOf="@+id/vwInfoImagem" />
+
+        <Button
+            android:id="@+id/btVoltar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="voltar"
+            android:textSize="12dp"
+            android:backgroundTint="@color/button_blue"
+            android:drawableLeft="@drawable/ic_baseline_arrow_back_24"
+            app:layout_constraintStart_toStartOf="@id/containerView1"
+            app:layout_constraintTop_toBottomOf="@id/containerView1"
+             />
+
+        <Button
+            android:id="@+id/btSaveShare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/button_blue"
+            android:drawableLeft="@drawable/ic_baseline_save_alt_24"
+            android:drawableRight="@drawable/ic_baseline_share_24"
+            app:layout_constraintStart_toEndOf="@id/btVoltar"
+            app:layout_constraintTop_toTopOf="@id/btVoltar"
+            app:layout_constraintEnd_toStartOf="@id/btHome"
+             />
+
+        <Button
+            android:id="@+id/btHome"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/button_blue"
+            android:text="home"
+            android:textSize="12dp"
+            android:drawableRight="@drawable/ic_baseline_home_24"
+            app:layout_constraintEnd_toEndOf="@id/containerView1"
+            app:layout_constraintTop_toTopOf="@id/btVoltar"
+             />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

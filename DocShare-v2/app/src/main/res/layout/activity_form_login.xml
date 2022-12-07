@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/azulGelo"
+        tools:context=".usuario.FormLogin">
+
+
+        <View
+            android:id="@+id/containerComponents"
+            style="@style/ContainerLogin"
+            android:layout_width="match_parent"
+            android:layout_height="310dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/container_components"
+            android:elevation="10dp"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+        <EditText
+            android:id="@+id/edit_email"
+            style="@style/Edit_Text"
+            android:background="@drawable/edit_text"
+            android:drawableRight="@drawable/ic_email_24"
+            android:elevation="10dp"
+            android:hint="E-mail"
+            android:inputType="textEmailAddress"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@id/containerComponents"
+            app:layout_constraintStart_toStartOf="@id/containerComponents"
+            app:layout_constraintTop_toTopOf="@id/containerComponents" />
+
+        <EditText
+            android:id="@+id/editTextPassword"
+            style="@style/Edit_Text"
+            android:background="@drawable/edit_text"
+            android:drawableRight="@drawable/ic_lock_24"
+            android:elevation="10dp"
+            android:hint="Senha"
+            android:inputType="textPassword"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="@+id/containerComponents"
+            app:layout_constraintEnd_toEndOf="@+id/containerComponents"
+            app:layout_constraintStart_toStartOf="@+id/containerComponents"
+            app:layout_constraintTop_toBottomOf="@+id/edit_email"
+            app:layout_constraintVertical_bias="0.084" />
+
+        <TextView
+            android:id="@+id/txt_esqueci"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:elevation="10dp"
+            android:text="@string/esqueci_senha"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toTopOf="@+id/bt_entrar"
+            app:layout_constraintEnd_toEndOf="@+id/containerComponents"
+            app:layout_constraintStart_toStartOf="@+id/containerComponents"
+            app:layout_constraintTop_toBottomOf="@+id/editTextPassword"
+            />
+
+        <Button
+            android:id="@+id/bt_entrar"
+            android:layout_width="170dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="25dp"
+            android:backgroundTint="@color/button_blue"
+            android:elevation="11dp"
+            android:stateListAnimator="@null"
+            android:text="Entrar"
+            app:flow_verticalAlign="center"
+            app:layout_constraintEnd_toEndOf="@+id/containerComponents"
+            app:layout_constraintStart_toStartOf="@+id/containerComponents"
+            app:layout_constraintTop_toBottomOf="@+id/editTextPassword" />
+
+        <ImageView
+            android:id="@+id/loagingBgLogin"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:alpha="0.8"
+            android:background="@color/black"
+            android:elevation="20dp"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:srcCompat="@drawable/background_gradient" />
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:elevation="22dp"
+            android:indeterminateTint="@color/white"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="270dp"
+            android:layout_height="110dp"
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/doc" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:id="@+id/cadastroContainer"
+            app:layout_constraintBottom_toBottomOf="@+id/containerComponents"
+            app:layout_constraintEnd_toEndOf="@+id/containerComponents"
+            app:layout_constraintStart_toStartOf="@+id/containerComponents"
+            app:layout_constraintTop_toBottomOf="@+id/bt_entrar">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="11dp"
+                android:text="Não possui acesso?  "
+                android:textSize="17dp"
+                app:layout_constraintStart_toStartOf="@+id/cadastroContainer"
+                app:layout_constraintEnd_toStartOf="@+id/textViewCadastre"
+                app:layout_constraintTop_toTopOf="@+id/cadastroContainer"/>
+
+            <TextView
+                android:id="@+id/textViewCadastre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="11dp"
+                android:text="@string/cadastro"
+                android:textColor="@color/button_blue"
+                android:textSize="17dp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/cadastroContainer"
+                app:layout_constraintStart_toEndOf="@+id/textView3"
+                app:layout_constraintTop_toTopOf="@+id/cadastroContainer" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:elevation="10dp"
+            android:hint="E-mail"
+            app:layout_constraintEnd_toEndOf="@+id/edit_email"
+            app:layout_constraintStart_toStartOf="@+id/edit_email"
+            app:layout_constraintTop_toTopOf="@+id/edit_email"
+            app:startIconDrawable="@drawable/ic_email"
+            app:startIconTint="@color/azulao">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/email_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:elevation="10dp"
+            android:hint="Senha"
+            app:layout_constraintEnd_toEndOf="@+id/edit_email"
+            app:layout_constraintStart_toStartOf="@+id/edit_email"
+            app:layout_constraintTop_toBottomOf="@+id/edit_email"
+            app:endIconMode="password_toggle"
+            app:startIconDrawable="@drawable/ic_lock_24"
+            app:startIconTint="@color/azulao"
+           >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/senha_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        tools:context=".formularios.FormCadastro">
+
+
+        <TextView
+            android:id="@+id/cadastro_de"
+            style="@style/Widget.AppCompat.TextView"
+            android:layout_width="315dp"
+            android:layout_height="36dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="30dp"
+            android:gravity="center_horizontal|top"
+            android:text="Cadastro de usuário"
+            android:textColor="@color/soft_black"
+            android:textStyle="bold"
+            android:textSize="32sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/rectangle_4"
+            style="@style/ContainerLogin"
+            android:layout_height="280dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/container_components"
+            android:elevation="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cadastro_de" />
+
+        <EditText
+            android:id="@+id/edit_cadastro_email"
+            style="@style/Edit_Text"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/edit_text"
+            android:drawableLeft="@drawable/ic_email"
+            android:elevation="10dp"
+            android:hint=" E-mail"
+            android:inputType="textEmailAddress"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_4"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_4"
+            app:layout_constraintTop_toTopOf="@+id/rectangle_4" />
+
+        <EditText
+            android:id="@+id/edit_cadastro_senha"
+            style="@style/Edit_Text"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/edit_text"
+            android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
+            android:drawableRight="@drawable/ic_eye"
+            android:elevation="10dp"
+            android:hint=" Senha"
+            android:inputType="textPassword"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_4"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_4"
+            app:layout_constraintTop_toBottomOf="@+id/edit_cadastro_email" />
+
+        <EditText
+            android:id="@+id/edit_confirmar_senha"
+            style="@style/Edit_Text"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/edit_text"
+            android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
+            android:drawableRight="@drawable/ic_eye"
+            android:elevation="10dp"
+            android:hint=" Confirme sua senha"
+            android:inputType="textPassword"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_4"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_4"
+            app:layout_constraintTop_toBottomOf="@+id/edit_cadastro_senha" />
+
+        <TextView
+            android:id="@+id/info_pessoais"
+            style="@style/Widget.AppCompat.TextView"
+            android:layout_width="315dp"
+            android:layout_height="36dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="30dp"
+            android:gravity="center_horizontal|top"
+            android:text="Informações pessoais"
+            android:textColor="@color/soft_black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rectangle_4" />
+
+        <View
+            android:id="@+id/rectangle_5"
+            style="@style/ContainerLogin"
+            android:layout_height="495dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="28dp"
+            android:background="@drawable/container_components"
+            android:elevation="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/info_pessoais" />
+
+        <EditText
+            android:id="@+id/edit_cadastro_nome"
+            style="@style/Edit_Text"
+            android:background="@drawable/edit_text"
+            android:elevation="10dp"
+            android:hint="Nome completo"
+            android:maxLines="1"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_5"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_5"
+            app:layout_constraintTop_toTopOf="@+id/rectangle_5" />
+
+        <EditText
+            android:id="@+id/edit_cadastro_cpf"
+            style="@style/Edit_Text"
+            android:background="@drawable/edit_text"
+            android:elevation="10dp"
+            android:hint="CPF"
+            android:inputType="number"
+            android:maxLength="11"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_5"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_5"
+            app:layout_constraintTop_toBottomOf="@+id/edit_cadastro_nome" />
+
+        <EditText
+            android:id="@+id/edit_cadastro_RG"
+            style="@style/Edit_Text"
+            android:background="@drawable/edit_text"
+            android:elevation="10dp"
+            android:hint="RG"
+            android:inputType="number"
+            android:maxLength="7"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_5"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_5"
+            app:layout_constraintTop_toBottomOf="@+id/edit_cadastro_cpf" />
+
+        <EditText
+            android:id="@+id/edit_cadastro_telefone"
+            style="@style/Edit_Text"
+            android:background="@drawable/edit_text"
+            android:elevation="10dp"
+            android:hint="Telefone"
+            android:inputType="number"
+            android:maxLength="14"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_5"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_5"
+            app:layout_constraintTop_toBottomOf="@+id/edit_cadastro_RG" />
+
+        <Spinner
+            android:id="@+id/edit_cargo"
+            style="@style/Edit_Text"
+            android:drawableRight="@drawable/ic_baseline_keyboard_arrow_down_24"
+            android:elevation="10dp"
+            android:entries="@array/cargos"
+            android:hint="Cargo"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_5"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_5"
+            app:layout_constraintTop_toBottomOf="@+id/edit_cadastro_telefone" />
+
+        <Spinner
+            android:id="@+id/edit_setor"
+            style="@style/Edit_Text"
+            android:drawableRight="@drawable/ic_baseline_keyboard_arrow_down_24"
+            android:elevation="10dp"
+            android:entries="@array/setores"
+            android:hint="Setor"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/rectangle_5"
+            app:layout_constraintStart_toStartOf="@+id/rectangle_5"
+            app:layout_constraintTop_toBottomOf="@+id/edit_cargo" />
+
+        <Button
+            android:id="@+id/button_cadastrar"
+            android:layout_width="346dp"
+            android:layout_height="69dp"
+            android:layout_margin="30dp"
+            android:backgroundTint="@color/button_blue"
+            android:text="Finalizar cadastro"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/rectangle_5" />
+
+
+        <ImageView
+            android:id="@+id/loagingBg"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:alpha="0.8"
+            android:background="@color/black"
+            android:elevation="20dp"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1.0"
+            app:srcCompat="@drawable/background_gradient" />
+
+        <ProgressBar
+            android:id="@+id/loadingPb"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:elevation="21dp"
+            android:visibility="invisible"
+            android:indeterminateTint="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:hint="E-mail"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cadastro_email"
+            app:layout_constraintStart_toStartOf="@+id/edit_cadastro_email"
+            app:layout_constraintTop_toTopOf="@+id/edit_cadastro_email">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:maxLines="1"
+                 />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:hint="Senha"
+            app:endIconMode="password_toggle"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cadastro_email"
+            app:layout_constraintStart_toStartOf="@+id/edit_cadastro_email"
+            app:layout_constraintTop_toTopOf="@+id/edit_cadastro_senha">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_senha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                 />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:hint="Confirmar senha"
+            app:endIconMode="password_toggle"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cadastro_email"
+            app:layout_constraintStart_toStartOf="@+id/edit_cadastro_email"
+            app:layout_constraintTop_toTopOf="@+id/edit_confirmar_senha">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_confirmar_senha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:maxLines="1"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cadastro_nome"
+            app:layout_constraintStart_toStartOf="@+id/edit_cadastro_nome"
+            app:layout_constraintTop_toTopOf="@+id/edit_cadastro_nome"
+            android:hint="Nome completo" >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_nome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:inputType="text"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cadastro_cpf"
+            app:layout_constraintStart_toStartOf="@+id/edit_cadastro_cpf"
+            app:layout_constraintTop_toTopOf="@+id/edit_cadastro_cpf"
+            android:hint="CPF"
+            app:counterMaxLength="11"
+            app:counterEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_cpf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:maxLength="11"
+                android:inputType="number"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/textInputLayout2"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:hint="Telefone"
+            app:counterEnabled="true"
+            app:counterMaxLength="8"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cadastro_telefone"
+            app:layout_constraintStart_toStartOf="@+id/edit_cadastro_telefone"
+            app:layout_constraintTop_toTopOf="@+id/edit_cadastro_telefone"
+            app:prefixText="(81) 9">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_telefone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:maxLength="8"
+                android:maxLines="1" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cadastro_RG"
+            app:layout_constraintStart_toStartOf="@+id/edit_cadastro_RG"
+            app:layout_constraintTop_toTopOf="@+id/edit_cadastro_RG"
+            android:hint="RG"
+            app:counterMaxLength="7"
+            app:counterEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/input_rg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:maxLength="7"
+                android:inputType="number"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:hint="Selecione seu cargo"
+            app:layout_constraintEnd_toEndOf="@+id/edit_cargo"
+            app:layout_constraintStart_toStartOf="@+id/edit_cargo"
+            app:layout_constraintTop_toTopOf="@+id/edit_cargo">
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteCargo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:hint="Selecione seu setor"
+            app:layout_constraintEnd_toEndOf="@+id/edit_setor"
+            app:layout_constraintStart_toStartOf="@+id/edit_setor"
+            app:layout_constraintTop_toTopOf="@+id/edit_setor">
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteSetor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="none"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.core.widget.NestedScrollView>

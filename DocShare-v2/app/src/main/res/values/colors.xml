@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#6A30CA</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#5ECED4</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#A5B3D0</color>
+    <color name="button_blue">#294584</color> // cor #4
+    <color name="type_light_gray">#C0C0C0</color>
+    <color name="soft_black">#2D2E2C</color>
+    <color name="container_color">#F8F8F8</color>
+    <color name="edit_text_color">#D9D9D9</color>
+
+    // CORES DA PALETA "feel":
+
+    <color name="azulClarinho">#CDE2FD</color> // cor #1
+    <color name="azulClaro">#C3DEF3</color> // cor #2
+    <color name="azulGelo">#A5B3D0</color> // cor #3
+    <color name="azulao">#1A2E61</color> // cor #5
+</resources>
