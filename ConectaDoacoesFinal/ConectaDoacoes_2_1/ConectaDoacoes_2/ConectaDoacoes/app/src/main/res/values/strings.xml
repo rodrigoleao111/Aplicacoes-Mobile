@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Conecta Doações</string>
-    <string name="bt_pesquisa">Pesquisar</string>
-    <string name="textView1">Clique e descubra o ponto de arrecadação mais próximo de você!</string>
-    <string name="app_name_splash">Conecta Doações</string>
-    <string name="localidades">Os locais de arrecadamento aparecerão aqui</string>
-    <string name="buttonForms">Clique para cadastrar um novo lugar</string>
-</resources>
