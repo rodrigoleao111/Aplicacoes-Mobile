@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/ic_newdocument.xml" value="0.2115" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/ic_send.xml" value="0.176" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/activity_chatbot.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/activity_main2.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/activity_tela_inicial.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/activity_tela_splash.xml" value="0.25" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/bot_mensagem_rv.xml" value="0.33" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/chatbot.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/fragment_chatbot.xml" value="0.21" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/fragment_novodocumento.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/fragment_perfil.xml" value="0.25" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/popup.xml" value="0.22" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/sidebar.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/tela_chatbot.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/user_mensagem_rv.xml" value="0.33" />
+        <entry key="..\:/Users/Matheus/AndroidStudioProjects/ChatBotApp/app/src/main/res/menu/tela_home.xml" value="0.25" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/background_dinamico.xml" value="0.1265" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/ic_atualizar.xml" value="0.1265" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/ic_chatbot.xml" value="0.1265" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/ic_document.xml" value="0.1265" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/ic_documento_icon.xml" value="0.1265" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/drawable/ic_user.xml" value="0.1265" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/activity_tela_inicial.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/arecycler_view_linha.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/bot_img_rv.xml" value="0.2234375" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/bot_mensagem_rv.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/aisla/AndroidStudioProjects/ChatBotApp/app/src/main/res/layout/fragment_chatbot.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

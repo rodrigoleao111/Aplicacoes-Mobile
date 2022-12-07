@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/button_color_grey.xml" value="0.126" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/create_acount_photo_btn_shape.xml" value="0.1335" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/default_button_shape.xml" value="0.111" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/default_popupbutton_green.xml" value="0.1335" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/default_popupbutton_red.xml" value="0.1345" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/default_popupbutton_yes.xml" value="0.1345" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/default_task_item_shape.xml" value="0.1345" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_add_photo.xml" value="0.147" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_arrow.xml" value="0.135" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2625" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_email.xml" value="0.1515" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_group.xml" value="0.264" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_home.xml" value="0.134" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_login_user.xml" value="0.2225" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_menu.xml" value="0.134" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/ic_settings.xml" value="0.264" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/login_field_container_shape.xml" value="0.145" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/login_textedit_shape.xml" value="0.145" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/navbar_header_shape.xml" value="0.1035" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/progressbar_background.xml" value="0.123" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/task_item_marker_grey.xml" value="0.2135" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/task_item_marker_red.xml" value="0.2135" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/task_item_marker_shape.xml" value="0.1345" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/text_edit_notification_shape.xml" value="0.286" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/drawable/textedit_add_member_border_color.xml" value="0.323" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/font/font.xml" value="0.216796875" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/activity_create_acount.xml" value="0.1911231884057971" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/activity_login.xml" value="0.21" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_completed_actions.xml" value="0.25" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_create_account.xml" value="0.25" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_create_acount.xml" value="0.17889492753623187" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_detail_task.xml" value="0.22" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_navbar.xml" value="0.1766304347826087" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_task.xml" value="0.21603260869565216" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_team.xml" value="0.3729166666666667" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/fragment_timer.xml" value="0.18659420289855072" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/nav_header.xml" value="0.2033514492753623" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/task_item.xml" value="0.25" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/team_list_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/timer_item.xml" value="0.2085889570552147" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/toolbar.xml" value="0.18704710144927536" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/layout/worker_list_item.xml" value="0.3859375" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/menu/nav_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Documentos/Programacao/PET/Fase02/MainTask/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1345" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable-v24/ic_job.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/create_acount_photo_btn_shape.xml" value="0.1615" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/custom_input.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/default_button_shape.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/default_popupbutton_green.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/default_task_item_shape.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_account.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_add_photo.xml" value="0.1615" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_arrow.xml" value="0.1615" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_arrow_back.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_baseline_help_outline_24.xml" value="0.1615" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_checklist.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_edit_text.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_logo.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_menu.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_pause.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_play.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_settings.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_stop.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/drawable/ic_troca_foto_minuatura.xml" value="0.13" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/activity_perfil.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_ajuda.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_config_fragments.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_create_account.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_detail_task.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_navbar.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_perfil.xml" value="0.18" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_task.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/fragment_timer.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/task_item.xml" value="0.5" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/timer_item.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/Games/MainTask/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

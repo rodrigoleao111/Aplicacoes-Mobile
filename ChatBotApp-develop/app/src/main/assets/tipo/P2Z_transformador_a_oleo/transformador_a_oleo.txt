@@ -1,0 +1,1448 @@
+        MANUAL
+
+TRANSFORMADOR A ÓLEO ATÉ
+        4000kVA
+
+1.      INTRODUÇÃO
+
+
+        Este manual visa dar informações necessárias ao recebimento, instalação e
+manutenção de transformadores de distribuição e força, até o limite de 4000kVA. O
+atendimento a estas instruções proporcionará um bom desempenho do transformador,
+além de prolongar a sua vida útil.
+        Os transformadores WEG são projetados e construídos rigorosamente
+segundo normas ABNT em suas últimas edições, estando por isso, os dados deste
+manual sujeitos a modificações sem prévio aviso.
+        Recomendamos àqueles que desejarem aprofundar-se no assunto, a leitura
+das seguintes normas:
+        •   NBR 7036 - Recebimento, instalação e manutenção de transformadores de
+            distribuição imersos em líquido isolante.
+        •   NBR 7037 - Recebimento, instalação e manutenção de transformadores de
+            potência em óleo isolante mineral.
+        •   NBR 5416 - Aplicação de cargas em transformadores de potência.
+      É muito importante ainda ter em mãos as publicações sobre instalação de
+transformadores emitidas pelas concessionárias de energia da região, visto que muitas
+delas têm caráter normativo. Para maiores esclarecimentos, consulte nosso
+Departamento de Assistência Técnica
+
+
+2.       INSTRUÇÕES BÁSICAS
+
+
+
+2.1.     INSTRUÇÕES GERAIS
+
+
+         Todos que trabalham em instalações elétricas, seja na montagem, operação ou
+manutenção, deverão ser permanentemente informados e atualizados sobre as normas
+e prescrições de segurança que regem o serviço, e aconselhados a segui-las. Cabe ao
+responsável certificar-se, antes do início do trabalho, de que tudo foi devidamente
+observado e alertar seu pessoal para os perigos inerentes à tarefa proposta.
+Recomenda-se que estes serviços sejam efetuados por pessoal qualificado.
+         Equipamento para combate a incêndios e avisos sobre primeiros socorros não
+devem faltar no local de trabalho, sempre em lugares bem visíveis e acessíveis.
+
+
+
+2.2.     FORNECIMENTO
+
+
+         Os transformadores antes de expedidos são testados na fábrica, garantindo,
+assim, o seu perfeito funcionamento. Dependendo o tamanho do transformador ou das
+condições de transporte, ele pode ser expedido montado ou desmontado. Maiores
+detalhes estão descritos mais adiante neste manual. No recebimento, recomendamos
+cuidado e inspeção, verificando a existência de eventuais danos provocados pelo
+transporte. Caso eles tenham ocorrido, notificar imediatamente o representante Weg
+mais próximo e a empresa transportadora para que não haja problemas com a
+empresa seguradora.
+
+
+
+2.2.1.   Local de Recebimento
+
+
+         Sempre que possível, o transformador deve ser descarregado diretamente
+sobre sua base definitiva.
+         Quando for necessário o descarregamento em local provisório, deve ser
+verificado se o terreno oferece plenas condições de segurança e distribuição de
+
+                                                                
+esforço, bem como se o local é o mais nivelado e li mpo possível. O equipamento
+nunca deve ser colocado em contato direto com o solo.
+
+
+
+2.2.2.   Inspeção de Recebimento
+
+
+         Antes do descarregamento, deve ser feita, por pessoal especializado, uma
+inspeção preliminar no transformador, na qual devem ser verificadas as suas
+condições externas, acessórios e componentes quanto a deformações, vazamento de
+óleo e estado da pintura. A lista de materiais expedida deve ser conferida.
+         Caso sejam evidentes quaisquer danos, falta de acessórios e componentes ou
+indicações de tratamento inadequado durante o transporte, o fabricante e o
+transportador devem ser comunicados.
+
+
+
+2.2.3.   Descarregamento e Manuseio
+
+
+         Todos os serviços de descarregamento e locomoção do transformador devem
+ser executados e supervisionados por pessoal especializado, obedecendo-se as
+normas de segurança e utilizando-se os pontos de apoio apropriados.
+         O levantamento ou tração deve ser feito pelos pontos indicados nos desenhos,
+não devendo utilizar-se outros pontos que, se usados, podem acarretar graves danos
+ao transformador.
+
+
+
+2.2.4.   Verificações e Ensaios de Recebimento
+
+
+         Para transformador transportado sem óleo, verificar a pressão do gás seco no
+tanque e nos cilindros de suprimentos, caso acompanhe.
+         Quando de transformador transportado com óleo e pressão atmosférica          o
+manômetro indicar pressão igual a “zero”, fazer as análises de rigidez dielétrica e teor
+de água no óleo para que se possa concluir sobre a absorção de umidade por parte do
+isolamento.
+
+                               
+         Recomenda-se que o transformador não seja aberto em circunstâncias que
+possibilitem a penetração de umidade, tais como em ambientes com umidade relativa
+acima de 70% e existência de vento forte.
+
+
+
+2.3.     ARMAZENAGEM
+
+
+a) Preferencialmente montar e encher com óleo isolante a unidade em seu local de
+   operação tão logo seja recebido, mesmo no caso do transformador não operar
+   imediatamente à data de recebimento (e realizar inspeções). Para curtos intervalos
+   de tempo (máximo 3 meses) o transformador pode ser armazenado sem óleo,
+   desde que seja pressurizado com gás seco. Neste caso, deve ser realizada,
+   preferencialmente, inspeção diária na pressão de gás, de modo a detectar
+   vazamentos em tempo hábil e evitar penetração de umidade.
+b) Os    transformadores,     quando        não      instalados        imediatamente,   devem   ser
+   armazenados preferencialmente em lugar abrigado, seco, isento de poeiras e
+   gases corrosivos, colocando-os sempre em posição normal e afastados de área
+   com muito movimento ou sujeito a colisões.
+c) Os componentes e acessórios, quando retirados do transformador para transporte
+   ou para armazenamento, devem atender ao seguinte:
+   •    os acessórios devem ser armazenados em locais adequados.
+   •    radiadores devem ser armazenados próximos ao transformador, evitando-se
+        seu contato com o solo.
+   •    buchas devem ser armazenadas, se possível, em locais adequados e secos.
+   •    o óleo pode ser armazenado em tambores, que devem permanecer na posição
+        horizontal, ficando os tampões alinhados e, se possível, protegidos por lonas,
+        evitando-se ainda o contato dos tambores com o solo.
+   •    transformador provido de painéis de circuitos auxiliares, devem ser mantidos
+        com os resistores de aquecimento ligados, comandados por termostatos
+        regulados para temperatura recomendada de 30ºC.
+
+
+
+
+
+
+3.        INSTALAÇÃO DE TRANSFORMADORES DE FORÇA > 300KVA
+
+
+
+3.1.      CONSIDERAÇÕES GERAIS
+
+
+          Antes de qualquer providência para montagem do transformador, deve ser
+verificada a disponibilidade de pessoal qualificado assim como de equipamentos e
+ferramentas adequadas.
+a) Não é recomendável a montagem dos transformadores em dia chuvoso.
+b) Antes da montagem do transformador, deve ser feita uma verificação constando de:
+     •   inspeção visual principalmente quanto ao correto nivelamento da base;
+     •   fixação correta do transformador, através da inspeção do dispositivo de
+         ancoragem;
+     •   inspeção visual, na parte externa do tanque do transformador, a fim de constatar
+         a não-ocorrência de danos durante o manuseio;
+     •   constatação de que os dados de placa estão compatíveis com a especificação
+         técnica do equipamento;
+     •   para transformadores religáveis, constatação de que a ligação de despacho
+         (expedição) atende ao especificado;
+     •   para transformadores transportados sem óleo, deve ser verificada a pressão;
+     •   para transformadores transportados com óleo, sempre que possível retirar
+         amostra do óleo isolante para análise em laboratório;
+     •   devem ser verificadas as conexões de aterramento do transformador.
+
+
+
+3.2.      TRANSFORMADOR TIPO PLATAFORMA
+
+
+          Os transformadores para plataforma deverão ser instalados sobre fundações
+adequadamente niveladas e resistentes para suportar o peso. Quando os
+transformadores forem dotados de rodas, deverão ser previstos trilhos nas fundações.
+          Nas     instalações      dos       transformadores,              devem        ser   considerados
+cuidadosamente os seguintes fatores:
+
+                                                                    
+       a) Deve haver um espaçamento mínimo de 0,5m entre transformadores e entre
+          estes e paredes ou muros, proporcionando facilidade de acesso para
+          inspeção e ventilação, dependendo, entretanto, das dimensões de projeto e
+          tensão.
+       b) Caso seja necessário utilizar instalações abrigadas, o recinto no qual será
+          colocado o transformador deve ser bem ventilado, de maneira que o ar
+          aquecido possa sair livremente, sendo substituído por ar fresco, Outrossim,
+          devem ser evitados obstáculos de qualquer natureza ao fluxo de ar dentro
+          da cabine.
+       Para tanto, as aberturas de entrada de ar devem estar próximas do piso e
+distribuídas de maneira mais eficiente, de preferência abaixo dos transformadores e
+possuírem as dimensões máximas dos transformadores.
+       As aberturas de saída deverão estar tão altas quanto permita a construção;
+número e tamanho das saídas dependem de suas distâncias acima do transformador,
+do rendimento e do ciclo de carga. Em geral, recomenda-se uso de aberturas de
+saídas de 5,50 m2 por 1.000 kVA de capacidade instalada.
+
+
+
+3.3.   ALTITUDES
+
+
+       Os transformadores são projetados conforme ABNT, para instalações até 1.000 m acima do nível do mar.
+       Em altitudes superiores a 1.000 m, o transformador terá sua capacidade
+reduzida ou necessitará de um sistema de refrigeração mais eficaz. As elevações de
+temperatura dos transformadores são projetadas para altitudes até 1.000 m. Quando
+funcionando em altitudes superiores a esta, não devem exceder os limites
+especificados na tabela 1.
+
+                                    Tabela 1 - Limites de elevação de temperatura ºC.
+                                                           Limites de elevação de temperatura (A)
+                                                 Dos enrolamentos                  Do óleo            Das partes metálicas
+                                    Método da variação da
+                                                                                                  Em contato        Não em
+                                             resistência
+             Tipos de                                                   Do                           com a       contato com
+                                Circulação do          Circulação
+      Transformadores                                                  ponto                        isolação      a isolação
+                                óleo natural ou        forçada de
+                                                                       mais                         sólida ou    sólida e não
+                                 forçada sem            óleo com
+                                                                       quente                     adjacente à     adjacente à
+                                 fluxo de óleo        fluxo dirigido
+                                                                                                    mesma.         mesma.
+                                   dirigido
+                                                                                                  Não devem      A temperatura
+                                                                                                     atingir       não deve
+                                                                                                  temperaturas    atingir, em
+           Sem conservador
+                                                                                                  superiores à   nenhum caso,
+              ou gás inerte            55                   60           65         50(B)
+                                                                                                    máxima        valores que
+             acima do óleo
+Em óleo
+
+
+
+
+                                                                                                  especificada     venham
+                                                                                                  para o ponto     danificar
+                                                                                                  mais quente
+                                                                                                  da isolação    estas partes,
+           Com conservador
+                                       55                   60           65          55           adjacente ou   outras partes
+              ou gás inerte                (D)                  (D)          (D)        (C) (D)
+                                      65                   70           80         65             em contato     ou materiais
+             acima do óleo
+                                                                                                   com esta.      adjacentes.
+
+(A) Os materiais isolantes, de acordo com experiência prática e ensaios, devem ser adequados para o limite de
+          elevação de temperatura em que o transformador é enquadrado.
+
+(B) Medida próxima à superfície do óleo.
+(C) Medida        próxima à parte superior do tanque, quando tiver conservador, e próxima à superfície do óleo, no
+          caso de gás inerte.
+
+(D) Quando for utilizada isolação de papel, este deverá ser termoestabilizado.
+Obs.: A redução da potência nominal para altitudes superiores a 1.000 m se dá de acordo com a equação:
+
+             H − 1000 
+Pr = Pn 1− k          
+               100 
+Sendo:
+Pr = potência reduzida, em kVA
+Pn = potência nominal, em kVA
+H = altitude em metros (arredondada, sempre, para a centena de metros seguinte)
+k = fator de redução (tabela 2)
+
+
+
+
+
+Tabela 2 - Fator de redução da potência nominal para altitudes superiores a 1.000 m
+Tipo de resfriamento                                                                       Fator de redução k
+Em líquido isolante
+a) com resfriamento natural (ONAN)                                                               0,004
+b) com ventilação forçada (ONAF)                                                                 0,005
+c) com circulação forçada do líquido isolante e com ventilação forçada (OFAF)
+                                                                                                 0,005
+d) com circulação forçada do líquido e com resfriamento a água (OFWF)
+                                                                                                 0,000
+
+
+
+
+3.4.      LIGAÇÕES
+
+
+          As ligações do transformador devem ser realizadas de acordo com o diagrama
+de ligações de sua placa de identificação. É importante que se verifique se os
+dados da placa de identificação estão coerentes com o sistema ao qual o
+transformador vai ser instalado. As ligações das buchas deverão ser apertadas
+adequadamente, cuidando para que nenhum esforço seja transmitido aos terminais, o
+que viria ocasionar afrouxamento das ligações, mau contato e posteriores vazamentos
+por sobreaquecimento no sistema de vedação.
+          As terminações devem ser suficientemente flexíveis, a fim de evitar esforços
+mecânicos causados pela expansão e contração, que poderão quebrar a porcelana
+dos isoladores. Estas admitem consideráveis pesos de condutores, mas devem ser
+evitadas longas distâncias sem suportes. Alguns tipos de buchas permitem a conexão
+direta dos cabos ou barramentos; outros necessitam de conectores apropriados, que
+podem ou não ser fornecidos com o transformador.
+
+
+
+3.5.      ATERRAMENTO DO TANQUE
+
+
+          O tanque deverá ser efetiva e permanentemente aterrado. Uma malha de terra
+permanente de baixa resistência é essencial para uma proteção adequada. No tanque
+está previsto um ou dois conectores para aterramento.
+
+
+
+
+       A malha de terra deverá ser ligada a esses conectores por meio de um cabo
+de cobre nú com seção adequada.
+
+
+
+3.6.   PROTEÇÃO E EQUIPAMENTO DE MONOBRA
+
+
+       Os transformadores devem ser protegidos contra sobrecargas, curto-circuito e
+surtos de tensão, através de chaves fusíveis, disjuntores, seccionadores, pára-raios,
+etc., que deverão ser adequadamente dimensionados para serem coordenados com o
+transformador e testados antes de fazer as conexões.
+
+
+
+
+                                                           
+
+4.         MONTAGEM DO TRANSFORMADOR
+
+
+           A montagem do transformador deve ser efetuada conforme as instruções
+específicas do fabricante.
+
+
+
+4.1.       CUIDADOS RECOMENDADOS DURANTE E APÓS A MONTAGEM
+
+
+
+4.1.1.     Termômetro
+
+
+4.1.1.1.        Aplicação
+
+
+           O termômetro (figura 1) possui dois ponteiros de ligação e um de indicação de
+temperatura máxima atingida em um período.
+           Estes três ponteiros são controláveis externamente, sendo que os dois
+primeiros movimentam-se apenas por ação externa, enquanto que o último é
+impulsionado pela agulha de temperatura (ponteiro de arraste), apenas quando em
+ascensão desta, pois, na redução ele fica imóvel, sujeito apenas à ação externa,
+possibilitando-se a verificação da temperatura máxima atingida em um dado período.
+           O termômetro possui na extremidade um bulbo que é colocado no ponto mais
+quente do óleo, logo abaixo da tampa.
+
+
+
+
+
+
+4.1.1.2.        Instrução
+
+
+           Pelo controle externo os ponteiros limites poderão ser movimentados à
+vontade. Temperatura de regulagem recomendada para ponteiros: para elevação de
+55º no enrolamento vf = 75º, a= 85º, d = 95º.
+           Ponteiro indicador de temperatura máxima do período: Após a inspeção
+periódica do termômetro voltar o ponteiro indicador até encostar no ponteiro principal
+através do controle externo.
+
+
+
+4.1.2.     Dispositivo de Alívio de Pressão
+
+
+
+4.1.2.1. Tipo membrana “Tubo de explosão”
+
+
+           Se o transformador for sofrer vácuo, este dispositivo não deve ser montado, e
+na abertura deve-se colocar um flange de vedação. Após ter concluído, retirar o flange
+e instalar a membrana.
+
+
+4.1.2.2.        Tipo válvula
+
+
+           A válvula de alívio de pressão de fechamento automático (figura 2) é instalada
+em transformadores imersos em líquido isolante com a finalidade de protegê-los contra
+possível deformação ou ruptura do tanque, em casos de defeito interno com
+aparecimento de pressão elevada.
+           A válvula é extremamente sensível e rápida (opera em menos de dois
+milésimos de segundo), fecha-se automaticamente após a operação, impedindo assim
+a entrada de qualquer agente externo no interior do transformador.
+
+
+
+
+                                                                            
+
+
+4.1.2.3.        Características e funcionamento
+
+
+           A válvula de alívio de pressão, de fechamento automático, é uma válvula com
+mola provida de um sistema de amplificação instantânea da força de atuação.
+
+
+
+           O corte (figura 3) mostra a válvula montada sobre o transformador por meio de
+parafusos que a prendem à flange (1), vedada pela gaxeta (2).
+           O disco da válvula (3) é apertado pelas molas (7) e vedado por meio das
+gaxetas (4 e 5). A operação da válvula dá-se quando a pressão que atua na área
+definida pelo diâmetro da gaxeta (4) excede a contrapressão de abertura exercida
+pelas molas (7).
+           Logo que o disco (3) levanta-se ligeiramente da gaxeta (4), a pressão interna
+do transformador passa imediatamente a agir sobre toda a área do disco delimitado
+pelo diâmetro da gaxeta (5), resultando uma força muito maior que aciona o disco para
+
+
+                                                                     
+cima e causa a abertura imediata e total da válvula até a altura das molas (7) em
+posição de compressão.
+           A pressão interna do transformador é rapidamente reduzida a valores normais
+em conseqüência do escape pela válvula, e as molas (7) reconduzem o disco (3) para
+a posição de repouso, vedando novamente a válvula. Um pequeno orifício de sangria
+do espaço compreendido entre as gaxetas (4 e 5) evita que a válvula opere
+desnecessariamente em caso de vedação imperfeita entre o disco (3) e a gaxeta (4)
+ocasionada por partículas estranhas depositadas sobre a gaxeta (4).
+           A válvula é provida na tampa (6) de um pino colorido (8), indicador mecânico
+da atuação da válvula. O pino está apoiado sobre o disco (3) e levanta-se com ele
+durante a abertura, sendo mantido na posição de válvula aberta pela gaxeta (11). O
+pino é claramente visível a grande distância, indicando que a válvula operou, podem
+ser rearmada manualmente, empurrando-o para baixo até encostar no disco (3).
+           A válvula também é provida de uma chave selada e a prova de tempo (9),
+montada na tampa, com contatos de atuação simultânea. A chave é acionada pelo
+movimento do disco (3) e deve ser rearmada manualmente por meio da alavanca (10)
+após o funcionamento.
+
+
+
+4.1.3.     Relé de Pressão Súbita
+
+
+4.1.3.1.        Generalidades
+
+
+           O relé de pressão súbita (figura 4) é um equipamento de proteção para
+transformadores do tipo selado. É instalado acima do nível máximo do líquido, no
+espaço com gás compreendido entre o líquido e a tampa do transformador.
+           O relé é projetado para atuar quando ocorrem defeitos no transformador que
+produzem pressão interna anormal, sendo sua operação ocasionada somente pelas
+mudanças rápidas da pressão interna, independente da pressão de operação do
+transformador.
+
+
+
+
+
+
+
+           Para gradientes de pressão superiores a 0,2 atm/seg a válvula opera
+instantaneamente. Por outro lado, o relé não opera devido a mudanças lentas de
+pressão próprias do funcionamento normal do transformador, bem como durante
+perturbações do sistema (raios, sobretensão de manobra ou curto-circuito) a menos
+que tais perturbações produzam danos no transformador.
+
+
+4.1.3.2.         Construção e funcionamento
+
+
+           O relé é composto essencialmente de um elemento sensível à pressão, com
+microrruptor.
+           Quando a pressão no interior do transformador muda lentamente durante o
+funcionamento normal, o orifício equalizador é suficiente para igualar a pressão do
+interior da caixa de relé com a pressão do interior do transformador. Desta maneira o
+fole não se deforma e o relé não dá alarme, permitindo a operação normal do
+transformador.
+           Por outro lado, se houver no interior do transformador aumentos de pressão
+mais rápidos dos que os verificados normalmente, o pequeno orifício equalizador faz
+com que persista por um certo período de tempo, na caixa do relé, uma pressão mais
+baixa      que   a   do   transformador.        Isto     ocasiona        o     alongamento   de   fole   e
+conseqüentemente o acionamento do microrruptor.
+
+
+
+
+
+4.1.3.3.        Forma de instalação
+
+
+           Normalmente o relé de pressão súbita é montado em uma das paredes laterais
+do tanque do transformador, no espaço entre o nível máximo do líquido isolante e a
+tampa. Entretanto, é aceitável também a montagem horizontal, sobre a tampa do
+transformador.
+           Quando o transformador é transportado cheio de líquido isolante ou é enchido
+no campo com vácuo, é importante verificar que não penetre líquido isolante no orifício
+equalizador de pressão ou no interior do relé.
+           Normalmente o flange ao qual se aplica o relé é fornecido com flange cego de
+vedação. O relé é fornecido em separado, devendo ser montado após concluída a
+instalação do transformador e o enchimento com líquido isolante.
+
+
+
+4.1.4.     Conservador
+
+
+           Verificar se o conservador está seco e limpo internamente e, caso necessário,
+lavá-lo com óleo limpo e preferencialmente aquecido (máximo 50ºC).
+
+
+4.1.4.1.        Sílica gel: generalidades
+
+
+           A fim de que sejam mantidos elevados índices dielétricos do óleo dos
+transformadores, estes são equipados com secadores de ar, (figura 6) os quais
+devidos à capacidade de absorção de umidade, secam o ar aspirado que flui ao
+transformador.
+
+
+
+
+
+
+
+4.1.4.2.        Construção
+
+
+           O secador de ar é composto de um recipiente metálico, no qual está contido o
+agente secador, e uma câmara para óleo, colocada diante do recipiente (que contém o
+agente) isolando-o na atmosfera. Durante o funcionamento normal do transformador, o
+óleo aquece e dilata, expulsando o ar do conservador através do secador. Havendo
+diminuição da carga do transformador ou da temperatura ambiente, também haverá
+abaixamento da temperatura do óleo, acompanhada da respectiva redução do volume.
+           Forma-se, então, uma depressão de ar no conservador e o ar ambiente é
+aspirado através da câmara e do agente secador, o qual absorve a umidade contida
+no ar, que entrará em contato com o óleo.
+
+
+4.1.4.3.        Agente secador
+
+
+           O agente secador, denominado sílica-gel, é vítreo e duro, quimicamente quase
+neutro e altamente higroscópico. É um silícico, impregnado com cloreto de cobalto,
+tendo, quando em estado ativo, a cor azul celeste, de aspecto cristalino. É capaz de
+absorver água até 40% de seu próprio peso.
+           Devido à absorção de água, torna-se róseo, devendo, então, ser substituído.
+Tem a vida muito prolongada e através de um processo de secagem que pode ser
+aplicado vezes, pode ser regenerado e reutilizado.
+
+
+4.1.4.4.        Regeneração da sílica-gel
+
+
+           A higroscopicidade da sílica-gel pode ser restabelecida pelo aquecimento em
+estufa na temperatura de 80 a 100ºC, evaporando desta maneira a água absorvida. A
+fim de acelerar o processo de secagem, convém mexê-la constantemente, até a
+recuperação total de sua cor característica. Seu contato com óleo, ou com os menores
+vestígios do mesmo, deve ser evitado a todo custo, para que não perca sua cor azul,
+tingindo-se de marrom e até de preto, tornando-se imprestável. Após a regeneração, a
+sílica-gel deve ser imediatamente conservada num recipiente seco, hermeticamente
+fechado.
+
+4.1.4.5.        Procedimentos para instalação do desumidificador de ar
+
+
+           • Retirar o tampão localizado na parte inferior do tanque de expansão (não é
+             necessário retirar o óleo do tanque).
+           • Retirar a tampa superior do desumidificador de ar e introduzir a sílica-gel no
+             seu interior.
+           • Recolocar a tampa do desumidificador de ar.
+           • Fixar o desumidificador de ar na parte inferior do tanque de expansão, com
+             o vidro voltado para baixo.
+           • Após fixá-lo, retirar a parte inferior de vidro do desumidificador de ar e
+             colocar o mesmo óleo do transformador até a indicação em vermelho
+             existente.
+           • Recolocar cuidadosamente a parte de vidro no desumidificador de ar.
+           • Certificar-se da perfeita fixação do mesmo de modo a evitar penetração de
+             umidade no transformador.
+
+
+
+
+
+
+
+4.1.5.     Relé de Gás (Tipo Buchholz)
+
+
+4.1.5.1.        Generalidades
+
+           O relé Buchholz (figura 8) tem por finalidade proteger aparelhos elétricos que
+trabalham imersos em líquido isolante, geralmente transformadores.
+           Enquanto sobrecargas e sobrecorrentes são fenômenos controláveis por meio
+de relés de máxima intensidade de corrente, defeitos tais como, perda de óleo,
+descargas internas, isolação defeituosa dos enrolamentos, do ferro ou mesmo contra a
+terra, ocorridos em transformadores equipados com um relé de máxima, podem causar
+avarias de grande monta, caso o defeito permaneça desapercebido do operador
+durante algum tempo.
+           O relé Buchholz é instalado em transformadores, justamente para, em tempo
+hábil, indicar por meio de alarme ou através do desligamento do transformador,
+defeitos como os acima citados e deste modo evitar a continuidade dos mesmos.
+
+
+
+
+
+
+4.1.5.2.        Descrição e princípio de funcionamento
+
+
+           O relé Buchholz é normalmente montado entre o tanque principal e o tanque
+de expansão do transformador. A carcaça do relé é de ferro fundido, possuindo duas
+aberturas flangeadas e ainda dois visores providos de uma escala graduada indicativa
+do volume de gás. Internamente encontram-se duas bóias montadas uma sobre a
+outra. Quando do acúmulo de uma certa quantidade de gás no relé, a bóia superior é
+forçada a descer. Se, por sua vez, uma produção excessiva de gás provoca uma
+circulação de óleo no relé, é a bóia inferior que reage, antes mesmo que os gasesformados atinjam o relé. Em ambos os casos, as bóias ao sofrerem o deslocamento,
+ligam um contato elétrico.
+
+
+4.1.5.3.        Instruções de serviço
+
+
+           O alarme soa sem que o transformador seja desligado. Deve-se desligar
+imediatamente o transformador, e em seguida fazer-se o teste do gás.
+           De acordo com o resultado do teste, os seguintes defeitos podem ser
+distinguidos:
+           a) Gás combustível, presença de acetileno.
+             Neste caso deve haver um defeito a ser reparado na parte elétrica.
+           b) Gás incombustível, sem acetileno.
+             Neste caso temos o ar puro. O transformador poderá ser ligado novamente
+             sem perigo. O alarme soando repetidamente, indica ar penetrando no
+             transformador. Desligue e repare a falha.
+           c) Nenhuma formação de gás, nível de gás no relé está baixando e uma
+             quantidade de ar está sendo sugada através da válvula aberta.
+             Neste caso o nível do óleo está muito baixo, possivelmente devido a um
+             vazamento. Preencha com óleo até o nível e controle a estanqueidade.
+           d) O transformador é desligado sem alarme prévio.
+             Neste caso o transformador deve ter sido sobrecarregado termicamente.
+             Ligue novamente após um intervalo de resfriamento.
+             O defeito poderá ser encontrado no contato de curto-circuito ou no sistema
+             de relés.
+           e) O alarme soa e o transformador é desligado imediatamente antes ou após
+             ter soado.
+             Neste caso uma das falhas já descritas sob a), b) ou c) devem ser a causa.
+             Faz-se o teste do gás e procede-se do mesmo modo acima mencionado.
+
+
+
+
+
+4.1.6.     Indicador de Nível de Óleo
+
+
+4.1.6.1.        Generalidades
+
+
+           Os indicadores magnéticos de nível têm por finalidade indicar com perfeição o
+nível do líquido isolante e ainda, quando providos de contatos para alarme ou
+desligamento servirem como aparelhos de proteção do transformador, etc.
+
+
+4.1.6.2.        Descrição e princípio de funcionamento
+
+
+           Os indicadores magnéticos de nível (figura 9) possuem a sua carcaça em
+alumínio fundido, sendo que a indicação de nível é feita por ponteiro acoplado a um
+ímã permanente, de grande sensibilidade, fato este que o torna bastante preciso.
+           O mostrador dos indicadores magnéticos de nível possui três indicações, ou
+sejam: MIN, que corresponde ao nível mínimo; 25ºC, que corresponde à temperatura
+ambiente assinalada e MAX, que corresponde ao nível máximo. Desligamento no nível
+mínimo
+
+
+
+
+4.1.7.   Radiadores
+
+
+         Os radiadores devem ser inspecionados quanto a limpeza e umidade. Caso
+necessário, devem ser lavados com óleo limpo e preferencialmente aquecido (máximo
+50ºC).
+
+
+
+4.1.8.   Buchas
+
+
+         Antes da montagem, as buchas devem estar perfeitamente limpas (benzina) e
+secas.
+         As juntas de vedação devem ser cuidadosamente colocadas e os seus
+elementos de fixação apertados, a fim de se conseguir boa estanqueidade.
+As buchas devem ser montadas uma de cada vez, a fim de reduzir a possibilidade de
+penetração de ar ambiente.
+         Para maior segurança durante a montagem das buchas, devem ser utilizados
+os dispositivos próprios para içamento e manuseio.
+
+
+
+
+                                     
+
+         Quando a bucha for fornecida com pino roscado, a montagem do conector
+deverá ser feita conforme figura 10.
+
+
+
+
+
+
+4.2.      COLETA       DE       AMOSTAS               DE        LÍQUIDOS                ISOLANTES   PARA
+TRANSFORMADORES
+
+
+
+4.2.1.    Definições
+
+
+          São os fluidos com características dielétrica, a base de óleos minerais ou
+produtos sintéticos, utilizados em transformadores com a finalidade de promover a
+remoção do calor gerado nas bobinas do equipamento.
+
+
+
+4.2.2.    Equipamentos para Amostragem
+
+
+a) Frasco para amostragem
+   Os frascos para acondicionamento das amostras devem ser de vidro preto, com
+   capacidade para 1 litro de amostra, limpos de acordo com o procedimento descrito
+   no item 4.2.3.
+b) Dispositivos de amostragem
+       • Dispositivo (Niple)
+       • Mangueira.
+c) Limpeza dos Frascos de amostragem
+   Os frascos que já foram usados, devem ser limpos de acordo com o seguinte
+   procedimento:
+   •     Retirar totalmente o óleo dos frascos;
+   •     Lavar os frascos e as tampas com detergente neutro;
+   •     Enxaguá-los com bastante água corrente comum;
+   •     Deixar escorrer a água comum e enxaguar com água destilada;
+   •     Seca-los na estufa em posição vertical a uma temperatura de 102 ± 2ºC por um
+         tempo mínimo de 12 horas .
+   •     Deixar os frascos esfriarem em temperatura ambiente, em seguida fechá-los,
+         tomando cuidado para não tocar com a mão a borda do frasco ou parte interna
+         da tampa que entrará em contato com o óleo.
+
+ 
+   •     NOTA: No lugar da água comum pode ser utilizado solução sulfocromica
+         diluídos em água, nas proporções indicadas pelos fabricantes.
+
+
+
+4.2.3.    Amostragem de Líquidos isolantes do Transformador: Recomendações
+
+
+a) Retirar as amostras preferencialmente em tempo seco e evitando qualquer
+   contaminação externa; se o tempo estiver chuvoso devem ser tomadas as
+   seguintes precauções:
+b) Se possível, o líquido deve estar no mínimo à mesma temperatura que o ar
+   ambiente.
+c) Quando o equipamento estiver em operação, a temperatura do líquido na hora da
+   amostragem deve ser anotada.
+   NOTAS: Este requisito é particularmente necessário quando o conteúdo de água
+   ou as características dependentes deste devem ser verificados.
+   O operador deverá estar habilitado para respeitar as normas de segurança, quando
+   da coleta de amostras de óleo em transformadores com conservador (tanque de
+   expansão),      onde     os     mesmos          podem         estar      energizados.   Porém   para
+   transformadores selados (sem tanque de expansão), as amostras de óleo, devem
+   ser retiradas com os mesmos desenergizados.
+d) Na ausência de qualquer indicação adicional, a válvula inferior ou orifício de
+   drenagem (amostra do fundo) e a válvula superior ou de enchimento (amostra do
+   topo) podem ser usadas.
+e) Com uso de mangueira, introduzi-la no transformador e retirar a amostra, tomando
+   o cuidado para deixar escorrer uma pequena parte do óleo para limpeza da
+   mangueira.
+
+
+
+4.2.4.    Procedimento para Amostragem pelo Orifício de Drenagem.
+
+
+a) Remover a proteção do dispositivo de drenagem.
+
+  Nota: No caso de o equipamento não possuir o orifício de drenagem ou
+  amostragem de equipamentos abertos para inspeção, a amostragem deverá ser
+  feita de acordo com o procedimento descrito no item 4.2.3. e)
+b) Remover toda a sujeira e poeira visível da válvula com um tecido limpo e sem
+   fiapos.
+c) Adaptar o dispositivo de amostragem no registro.
+d) Abrir a válvula e deixar fluir, vigorosamente, no mínimo três vezes o volume da
+   tubulação.
+    Nota: Este procedimento não se aplica a equipamento com pequeno volume de
+    óleo, para estes casos, o volume a retirar deve levar em consideração o nível de
+    óleo do equipamento.
+e) Colocar o frasco embaixo do dispositivo de amostragem.
+f) Encher o frasco desprezando no mínimo um volume de líquido igual a capacidade
+   do recipiente. Recomenda-se encher os frascos o máximo possível, levando-se em
+   conta as variações de volume decorrentes de possíveis alterações de temperatura.
+g) Após enchidos os frascos, selá-los conforme descreve o item “i”.
+h) Enviá-los ao laboratório de análises identificados conforme o item 4.2.5.
+i) Terminada a amostragem, tampar os frascos tomando cuidado para não tocar na
+   área da tampa que ficará em contato com o líquido. Envolver a parte do gargalo
+   com o filme de plástico (cortado em círculo), apertar bem, passar fita crepe ao
+   redor.
+
+
+
+4.2.5.   Identificação das Amostras
+
+
+         As amostras são identificadas como segue:
+         a) Numeração de série do transformador;
+         b) Potência;
+         c) Classe de tensão;
+         d) Tipo de óleo;
+         e) Cliente.
+
+
+
+
+
+
+    1. Conexão para o registro do equipamento
+    2. Frasco de 1000 ml
+    3. Seringa de 50 ml para ensaio cromatográfico
+    4. Tubo e tampa de cobre ou de politetrafuore tileno (Teflon)
+    5. Tampa para frasco de 1000 ml
+    6. Mangueira de plástico
+
+
+
+4.2.6.           Tabela de Valores Normalizados para Óleo Isolante
+
+
+                   Resultados Típicos                                                                        Valores    limite
+                                                                                                                        s
+                       Óleo        Óleo          Óleo                                                          Óleo     usado               Método
+
+  Ensaios           Novo          usado          novo       Satisfatório          A recondicionar               A            Após          de ensaio
+                                                                                                                        tratamento
+                       (B)                          (A)   Até 230        Acima    Até 230        Acima       regenerar Até 230 Acima
+                                                            kV                      KV                                      kV
+  Rigidez          50         > 40                  30    > 30           > 35    25 - 30         25      -              >             >    ASTM
+  dielétrica       65         > 70              -         > 60           > 70    50 - 60         35                     33            38   D877
+                   -          -                 -         > 24           > 27    20 - 24         50      -              >             >    (NBR
+                   70         > 58              -         > 48           > 54    40 - 40         70                     66            76   6869)
+                                                                                                 20      -              >             >    ASTM
+                                                                                                 27                     25            30   D1816
+                                                                                                 40      -              >             >    ASTM
+                                                                                                 54                     50            60   D1816
+  Conteúd          10         15                < 35      < 25           < 15    25 - 40         15      -    > 40      <             <    Método
+  o           de                                                                                 40                     20            15   Karl
+  água                                                                                                                                     Fischer
+  (ppm)                                                                                                                                    ASTM
+                                                                                                                                           D1533
+                                                                                                                                           MB-818
+      Acidez           0,03       0,1 - 0,2     < 0,04     < 0,3         < 0,1              -                  > 0,4         < 0,1           ASTM
+ (mgKOH/g)                                                                                                                                    D974
+       óleo                                                                                                                                  MB-101
+                                                                                                                                             ASTM
+                                                                                                                                              D664
+                                                                                                                                             MB-494
+   Tensão           0,045     0,02 - 0,03       > 0,04           > 0,025             0,02 - 0,025             < 0,020       > 0,03         ASTM D971
+interfacial N/m                                                                                                                            NBR 6234
+                                                                                                                                             ASTM
+                                                                                                                                             D2285
+       Cor             0,5        1 - 1,5        < 1,0             <3                      3-4                 >4                <2          ASTM
+                                                                                                                                             D1500
+                                                                                                                                            MB-351
+   Fator de            0,01       0,1 - 0,3     < 0,05             0,5                0,5 - 1,5                > 1,5         < 0,1           20ºC
+potência (%)            -             -         < 0,05              -                       -                    -               -         25ºC ASTM
+                       0,07           -          < 0,3              -                       -                    -               -             D
+                       0,1            -              -              -                       -                    -               -         100 ºC 924
+                                                                                                                                           90ºC VDE
+                                                                                                                                              370
+
+
+4.3.     ENCHIMENTO COM ÓLEO
+
+
+         Deve ser realizado conforme instruções indicadas a seguir:
+
+
+4.3.1.   Procedimentos para Enchimento com Óleo
+
+
+a) Transformador provido de gás seco e conservador não resistente a vácuo.
+   Após o processo de vácuo (preestabelecido pelo fabricante do transformador,
+   quanto à duração e nível de vácuo), proceder ao enchimento do transformador com
+   óleo sob vácuo, até, aproximadamente, 20 kPa (150 mmHg) abaixo da tampa.
+   Quebrar o vácuo entre o nível de óleo e a tampa, com gás seco. Desmontar a
+   mangueira da bomba de vácuo. Montar registros e relé de gás na tubulação, abrir
+   os registros instalados. Abrir o bujão B (figura 13) ou instalar secador de ar sem a
+   sílica-gel. Continuar o enchimento, agora preferencialmente pelo registro superior
+   do transformador. Efetuar o enchimento até o nível no conservador compatível com
+   a temperatura de óleo (nível detectável pelo indicador “I”). Fechar o bujão B.
+   Verificar o correto funcionamento do sistema de preservação do óleo (bolsa ou
+   membrana), caso aplicável.
+   Nota: A relação pressão x temperatura deve estar de acordo com NBR 10576.
+   (Tabela 2)
+b) Transformador provido de gás seco e conservador resistente a vácuo.
+   Após o processo de vácuo (preestabelecido pelo fabricante, quanto à duração e
+   nível de vácuo), proceder ao enchimento do transformador com óleo sob vácuo, por
+   um dos registros do tanque. Efetuar o enchimento até o nível adequado no
+   conservador compatível com a temperatura do óleo. Desligar a bomba de vácuo,
+   quebrar o vácuo entre o nível de óleo no conservador e o topo do conservador,
+   com gás seco. Desconectar a mangueira de vácuo. Fechar o flange. Instalar
+   secador de ar. Verificar o correto funcionamento do sistema de preservação de
+   óleo (bolsa ou membrana), caso aplicável (ver figura 14).
+   Nota: A relação pressão x temperatura deve estar de acordo com a NBR 10576.
+   (Tabela 2)
+
+
+c) Transformador com nível rebaixado de óleo
+   Abrir o(s) registro(s) instalado(s), junto ao relé de gás. Abrir o bujão B ou instalar o
+   secador de ar. Efetuar o enchimento até o nível no conservador compatível com a
+   temperatura do óleo (nível controlável pelo indicador I). Fechar o bujão B. Verificar
+   o correto funcionamento do sistema de preservação de óleo (bolsa ou membrana),
+   caso aplicável (ver figura 15).
+   Nota 1: A relação pressão x temperatura deve estar de acordo com a NBR 10576.
+   (Tabela 2), abaixo:
+   Nota 2: A temperatura dentro da câmara de vácuo deve ser função do vácuo
+   utilizado, a fim de evitar eventuais destilações das frações do óleo e/ou inibidores
+   de oxidação. A Tabela 2, a seguir, serve como orientação para a escolha da
+   relação vácuo-temperatura.
+
+
+                  TABELA 2 – Escolha da relação vácuo-temperatura
+                PRESSÃO                                 TEMPERATURA, ºC
+                   (Pa)                 ÓLEO S/ INIBIDOR                ÓLEO C/ INIBIDOR
+                   6,66                           60                             45
+                  66,66                           65                             55
+                  133,32                          80                             70
+          Nota: 1 mmHg = 133,32 Pa
+
+
+
+
+
+4.3.2.    Recomendações
+
+
+    Tg a 90ºC(%) ou
+     FP a 100ºC (%)
+                                      Teor de                   TIF > 20 mN/m a
+    (Fator de perdas     Rigidez                    Acidez                              Recomendações
+                                       água                           25 ºC
+    dielétricas a 90ºC
+         ou a 100ºC)
+                                                                         A                 Nenhuma
+                           A             A             A                 N              Regeneração ou
+                                                                                          troca do óleo
+                                                       N                 -              Regeneração ou
+                                                                                         troca do óleo e
+                                                                                         limpeza da PA
+                                                                         A              Filtragem do óleo
+             A                           A             A                 N              Regeneração ou
+                                                                                          troca de óleo
+                                                       N                 -              Regeneração ou
+
+
+                                                                                             troca de óleo
+                              N                           A                 A              Secagem da PA e
+                                                                                               do óleo
+                                                                            N              Secagem da PA e
+                                                                                            regeneração ou
+                                                                                             troca do óleo
+                                            N             N                 -              Secagem da PA
+                                                                                           e regeneração ou
+                                                                                             troca do óleo
+           N                   -             -            -                 -              Regeneração ou
+                                                                                             troca do óleo
+Notas:
+
+a)   Regeneração ou troca do óleo (o que for mais econômico).
+
+b)   Regeneração =       tratamento com terra Fuller = tratam ento químico com meio básico (por exemplo,
+     metassilicatos) e/ou tratamento com meio absorvente sólido (por exemplo, argilas, bauxita ou carvão
+     ativado). O óleo assim tratado deve ser aditivado com 0,3% em massa de DBPC (dibutil terciário
+     paracresol).
+
+c)   PA = parte ativa.
+
+d)   A = atende; N = não acende.
+
+
+5.     INSTALAÇÃO DE TRANSFORMADORES DISTRIBUIÇÃO PARA POSTES E
+PLATAFORMAS
+
+
+       Antes da instalação do transformador deve ser feita uma verificação.
+
+
+
+5.1.   INSPEÇÃO VISUAL
+
+
+       Principalmente nas buchas conectores e acessórios, para constatar a ausência
+de eventuais danos ou vazamentos que poderiam ocorrer devido ao manuseio e
+transporte do transformador.
+
+
+
+5.2.   PLACA DE IDENTIFICAÇÃO
+
+
+       Verificar se os dados de placa estão coerentes com o sistema em que o
+transformador será instalado. A correta ligação do painel de derivações ou a posição
+do comutador em relação ao diagrama de ligações.
+
+
+
+5.3.   FIXAÇÃO DO TRANSFORMADOR
+
+
+       O sistema de fixação deve estar de acordo com a norma ABNT. Os
+transformadores tipo poste possuem duas alças para fixação, com suporte para
+montagem direta ao poste.
+
+
+
+5.4.   IÇAMENTO
+
+
+       Para o içamento do transformador, as cordas ou cabos utilizados devem ser
+fixados nas alças, ganchos ou olhais existentes para essa finalidade. O transformador
+não deve sofrer avarias de qualquer natureza. Antes de içar o transformador, é
+conveniente fixar os suportes ou ganchos de suspensão das alças. Desta forma,
+quando estiver na altura adequada, será possível colocar facilmente os grampos de
+fixação.
+
+
+
+5.5.       LIGAÇÕES
+
+
+           As ligações do transformador devem ser realizadas de acordo com o diagrama
+de ligação de sua placa de identificação, atentando-se para a correta seqüência de
+fase.
+           Na rede deve ser, preferivelmente, com conector de derivação para linha viva
+(grampos) para rede de cobre, ou estribo, e grampo paralelo para rede de alumínio.
+                O neutro do secundário e tanque do transformador devem ser ligados à
+terra.
+
+
+
+5.6.       PROTEÇÃO
+
+
+           Os transformadores devem ser protegidos contra sobrecargas, curto-circuito e
+surtos de tensão. Normalmente usam-se chaves fusíveis, disjuntores, seccionadores,
+pára-raios,     etc.   Todos     esses        componentes            deverão           ser   adequadamente
+dimensionados para serem coordenados com o transformador e testado antes de fazer
+as conexões.
+           Os equipamentos de proteção devem ser instalados o mais próximo possível
+do transformador. Os elos utilizados nas chaves-fusíveis devem estar de acordo com a
+demanda e potência do transformador.
+
+
+
+5.7.       ATERRAMENTO
+
+
+           O aterramento do pára-raio deve ser feito com cabos de aterramento
+independente do aterramento do neutro do transformador.
+
+
+
+5.8.   MEDIÇÃO
+
+
+       Após a energização do transformador é necessária uma inspeção final com
+medição da tensão secundária.
+
+
+
+6.    ENSAIOS
+
+
+      É recomendável a execução dos seguintes ensaios:
+     a) Análise do líquido isolante (físico-químico)
+        •     Rigidez dielétrica
+        •     Teor de água
+        •     Fator de potência
+        •     Índice de neutralização
+        •     Ponto de Fulgor
+        •     Densidade
+      b) Análise cromatográfica
+      c) Medição do fator de potência do transformador e fator de potência e
+            capacitância das buchas, se providos em transformadores.
+      d) Medição da resistência de isolamento do transformador e da fiação de
+            painéis e acionamento(s) motorizado(s).
+      e) Medição da relação de transformação em todos as fases e posições do
+            comutador de derivações sem tensão.
+      f) Para o comutador de derivação em carga, deve haver medição, pelo menos
+            das posições extremas e centrais de todas as fases.
+      g) Simulação da atuação de todos os dispositivos de supervisão, proteção e
+            sinalização, verificação do ajuste e/ou calibração de termômetros, e
+            imagens térmicas.
+      h) Medição da relação de transformação, saturação e polaridade dos TC.
+            Curto-circuitar e aterrar, todos os secundários dos TC que não tiverem
+            previsão de uso.
+      i) Verificar as tensões e isolação dos circuitos auxiliares antes de sua
+            energização.
+      j) Após energização dos painéis e acionamentos motorizados, verificar
+            sentido de rotação dos motores dos ventiladores, sentido de rotação do
+            motor de acionamentos, chaves fim de curso elétricas, indicadores remotos
+   de posição, comando a distância do comutador de derivações em carga,
+   iluminação e aquecimentos dos armários e acionamentos.
+k) Medição da resistência elétrica em todos os enrolamentos, em todas as
+   fases e posições do comutador de derivações em carga
+
+
+7.       ENERGIZAÇÃO
+
+
+•    Antes de sua energização, é recomendada uma nova desareação nos pontos
+     previstos nos transformadores providos de buchas capacitivas, relé de gás,
+     cabeçote do comutador de derivações em carga, radiadores, etc.
+•    Inspecionar todos os dispositivos de proteção e sinalização do transformador.
+•    É importante observar que o transformador deve ser energizado após decorridos,
+     pelo menos, 24 horas de conclusão de enchimento com óleo.
+•    Ajustar e travar a posição do comutador manual conforme                          recomendado pela
+     operação do sistema
+•    Todo o período de montagem, ensaios e energização, deve ser acompanhado por
+     um supervisor do fabricante.
+•    O transformador deve ser energizado inicialmente em vazio. Se o transformador for
+     provido de comutador em carga deve ser acionado em todos as derivações .
+•    Recomenda-se efetuar análise cromatográfica do óleo isolante, antes da
+     energização (referência), 24 h a 36 h após a energização e 10 dias e 30 dias após
+     a energização para detecção de defeitos incipientes.
+
+
+
+
+8.       MANUTENÇÃO
+
+
+         Para problemas típicos normalmente encontrados e soluções recomendadas
+relativos à manutenção.
+
+8.1.     INSPEÇÕES PERIÓDICAS
+
+
+
+8.1.1.   Registros Operacionais
+
+
+         Os registros operacionais devem ser obtidos através das leituras dos
+instrumentos indicadores, das ocorrências extraordinárias relacionadas com o
+transformador, bem como todo evento relacionado, ou não, com a operação do sistema
+elétrico, que possa afetar o desempenho e/ou características intrínsicas do
+equipamento. É recomendável a leitura diária dos indicadores de temperatura (anotar
+temperatura ambiente) do indicador de nível de óleo, carga e tensão do transformador.
+
+
+
+8.1.2.   Inspeção Termográfica
+
+
+         Estas inspeções devem ser realizadas periodicamente nas subestações,
+objetivando principalmente detectar aquecimento anormal nos conectores.
+
+
+
+8.1.3.   Verificação das Condições do Óleo Isolante
+
+
+         Periodicamente são retiradas amostras e efetuados ensaios conforme tabelas
+         4.2.6. e 4.3.2.
+
+
+
+8.1.4.   Inspeções Visuais
+
+
+         Devem ser feitas inspeções visuais periódicas, seguindo-se um roteiro
+previamente estabelecido, que deve abranger todos os pontos a serem observados,
+conforme Anexo A.
+
+
+8.2.     UTILIZAÇÃO DAS INFORMAÇÕES
+
+
+
+8.2.1.   Ocorrências que Exigem Desligamento Imediato
+
+
+         Pois colocam o equipamento e as instalações em risco iminente:
+         •   ruído interno anormal;
+         •   vazamento significativo de óleo;
+         •   aquecimento        excessivo         dos      conectores,         observando   os   critérios
+             estabelecidos para termovisão;
+         •   relé de gás atuado;
+         •   sobreaquecimento de óleo ou dos enrolamentos detectados através dos
+             termômetros/imagens térmicas.
+
+8.2.2.   Ocorrências que Exigem Desligamento Programado
+
+
+         Não ofereçam riscos imediatos. Estes desligamentos devem ser efetuados no
+menor prazo possível, dentro das condições operativas do sistema:
+         •   vazamento de óleo que não oferece risco imediato de abaixamento
+             perigoso do nível;
+         •   aquecimento nos conectores, observando os critérios estabelecidos pela
+             termovisão;
+         •   desnivelamento da base;
+         •   anormalidades constatadas nos ensaios de óleo, obedecendo aos limites
+             fixados na NBR 5356;         •   irregularidades no funcionamento do comutador de derivações em carga.
+             Neste caso, bloquear a operação do comutador.
+         •   trinca ou quebra do diafragma de válvula de segurança (tubo de explosão);
+         •   defeitos nos acessórios de proteção e sinalização.
+
+
+
+8.3.     ENSAIOS E VERIFICAÇÕES - PERIODICIDADE
+
+
+
+8.3.1.   Semestralmente
+
+
+         Devem ser feitas no mínimo as inspeções e verificações mencionadas no
+Anexo A, desde que não se exija desligamento do transformador.
+
+
+
+8.3.2.   Anualmente
+
+
+         Deve ser feita uma análise no óleo isolante, através de retirada de amostras,
+efetuando-se os ensaios físico-químicos prescritos na tabela 4.3.2.
+         Nota: Pode ser conveniente alterar o período desta inspeção, em função do
+         tipo de construção do transformador e do local de sua instalação.
+         É recomendável ainda que a cada ano seja feita, pelo menos, uma análise de
+gases dissolvidos no óleo isolante (cromatografia), conforme a NBR 7274.
+
+
+
+8.3.3.   A cada três anos
+
+
+         Devem ser realizados os seguintes ensaios e inspeções, conforme Anexo A,
+com desligamento do transformador:
+         a) fator de potência do transformador e fator de potência e capacitância das
+             buchas, se providas de derivações capacitivas;
+         b) isolamento com corrente contínua do transformador;
+         c) relação de transformação;         d) resistência elétrica dos enrolamentos .
+
+
+Notas:
+a) Após a mudança de uma derivação do comutador sem tensão e/ou quando da
+   manutenção do comutador de derivações em carga.
+b) Em função do desempenho do equipamento, a periodicidade para inspeção e
+   ensaios pode ser alterada.
+c) Devem ser feitos tratamento e pintura nos pontos necessários do transformador.
+
+
+
+8.4.     TRANSFORMADOR RESERVA
+
+
+         Os procedimentos devem ser os mesmos recomendados para transformadores
+energizados.
+
+ANEXO A - Inspeções periódicas semestrais (S) e trienais (T)
+
+
+Este anexo recomenda as verificações que devem ser feitas nas ações relacionadas
+em A-1 a A-13.
+
+
+A-1.    Buchas: Devem ser feitas as seguintes verificações:
+   •   vazamentos (S);
+   •   nível do óleo isolante (S);
+   •   trincas ou partes quebradas, inclusive no visor do óleo (T);
+   •   fixação (T);
+   •   condições e alinhamento dos centelhadores (T);
+   •   conectores, cabos e barramentos (T);
+   •   limpeza das porcelanas (T).
+
+
+A-2.    Tanque e radiadores: Devem ser feitas as seguintes verificações:
+   •   vibração do tanque e das aletas dos radiadores (S) ;
+   •   vazamentos: na tampa, nos radiadores, no comutador de derivações, nos
+       registros e bujões de drenagem (S);
+   •   estado da pintura: anotar os eventuais pontos de oxidação (S);
+   •   estado dos indicadores de pressão (para transformadores selados) (S);
+   •   todas as conexões de aterramento (tanque, neutro, etc.) (T);
+   •   bases (nivelamento, trincas, etc.) (S);
+   •   posição das válvulas dos radiadores (S)
+
+
+A-3.    Conservador: Devem ser feitas as seguintes verificações:
+   •   vazamento (S);
+   •   registro entre o conservador e o tanque, se estão totalmente abertos (T);
+   •   fixação do conservador (T);
+   •   nível do óleo isolante (S).
+
+A-4.    Termômetros de óleo e/ou enrolamento: Devem se feitas as seguintes
+verificações:
+   •   funcionamento dos indicadores de temperatura (S);
+   •   valores de temperatura encontrados (anotar) (S);
+   •   estado dos tubos capilares dos termômetros (T);
+   •   pintura e oxidação (S);
+   •   calibração e aferição (T);
+   •   nível de óleo na bolsa (T).
+
+
+A-5.    Sistema de ventilação: Devem ser feitas as seguintes verificações:
+   •   ventiladores, quanto a aquecimento, vibração, ruído, vedação a intempéries,
+       fixação, pintura e oxidação (S) ;
+   •   acionamento manual (S);
+   •   circuitos de alimentação (S);
+   •   pás e grades de proteção (S).
+
+
+A-6.    Sistema de circulação de óleo: Devem ser feitas as seguintes verificações:
+   •   bomba de circulação forçada de óleo, quanto a aquecimento, ruído, vibrações,
+       vazamento (S);
+   •   circuitos de comando, controle e alimentação (S);
+   •   indicador de fluxo (S);
+   •   pressostatos (S).
+
+
+A-7.    Secador de ar: Devem ser feitas as seguintes verificações:
+   •   estado de conservação (S);
+   •   limpeza e nível de óleo da cuba (S);
+   •   estado das juntas e vedação (S);
+   •   condições da sílica-gel (S).
+       Nota: A sílica-gel saturada (coloração rosa) pode ser recuperada aquecendo-a
+       em estufa de 80ºC a 100ºC, utilizando-se recipiente aberto até que sua
+       coloração volte a azul-cobalto. Sílica-gel contaminada com óleo deve ser
+       substituída.
+A-8.     Dispositivo de alívio de pressão: Devem ser feitas as seguintes verificações:
+   •    tipo tubular: verificar membrana (T);
+   •    tipo válvula: verificar funcionamento do microrruptor (T) .
+        Nota: Para verificação do funcionamento físico da válvula, esta deve ser
+        desmontada e ensaiada em dispositivo apropriado.
+
+
+A-9.     Relé de gás: Devem ser feitas as seguintes verificações:
+   •    presença de gás no visor (S)
+   •    limpeza do visor (T);
+   •    vazamento de óleo (S);
+   •    juntas (S);
+   •    fiação (T);
+   •    atuação (alarme e desligamento) (T).
+
+
+A-10.    Relé de pressão súbita: Devem ser feitas as seguintes verificações:
+   •    vazamento (S);
+   •    juntas (S);
+   •    contatores tipo plugue (T);
+   •    fiação (T).
+
+
+A-11.    Comutadores de derivações: Devem ser feitas as seguintes verificações:
+   •    sem tensão: estado geral e condições de funcionamento (T);
+   •    em carga:
+        • nível de óleo do compartimento do comutador (S);
+        • condições da caixa do acionamento motorizado quanto a limpeza, umidade,
+           juntas de vedação, trincos e maçanetas, aquecimento interno, etc. (S);
+        • motor e circuito de alimentação (S);
+        • fiação (S).
+        Nota: As inspeções por tempo de operação ou número de comutações devem
+        ser realizadas conforme estabelecido no manual do fabricante.
+
+A-12.    Caixa de terminais da fiação de controle e proteção: Devem ser feitas as
+seguintes verificações:
+   •    limpeza, estado da fiação, blocos terminais (S);
+   •    juntas de vedação, trincos e maçanetas (S);
+   •    resistor de aquecimento e iluminação interna (S);
+   •    fixação, corrosão e orifícios para aeração (S);
+   •    contatores, fusíveis, relés e chaves (T);
+   •    isolação da fiação (T);
+   •    aterramento do secundário dos TC, régua de bornes, identificação da fiação e
+        componentes (T).
+
+
+A-13.    Ligações externas: Devem ser feitas as seguintes verificações:
+   •    aterramento (T);
+   •    circuitos de alimentação externos (S).
+
+
+
+
+9. DIZERES LEGAIS
+
+
+
+
+               Blumenau
+                                                                              Gravataí
+   Rua Dr. Pedro Zimmermann, 6751
+                                                                    Rodovia RS20 - km 6,5
+         Bairro Itoupava Central
+                                                                  Rio Grande do Sul – Brasil
+         89068-001 - Blumenau
+                                                                   Tel.: +55 (51) 3489-2500
+         Santa Catarina – Brasil
+                                                                   Tel.: +55 (51) 2131-2500
+        Tel.: +55 (47) 3337-1000
+                                                                   Fax: +55 (51) 3489-2501
+        Fax: +55 (47) 3337-1090
+
+
+
+
+                                                                            Hortolândia
+                  Itajaí
+                                                                   Rodovia SP 101 - km 5,5
+Rua Rosa Orsi Dalçóquio, 100 - Cordeiros
+                                                                            Hortolândia
+           88311-720 - Itajaí
+                                                                       São Paulo – Brasil
+         Santa Catarina – Brasil
+                                                                   Tel.: +55 (19) 2119-2500
+        Tel.: +55 (47) 3276-7311
+                                                                   Fax: +55 (19) 2119-2501
+
+
+
+
+                               BANWEG (Edifício de Vendas)
+                     Av. Moema, 862 - Indianópolis CEP: 04077-023
+                                    São Paulo - São Paulo
+                                                Brasil
+                                    Tel.: 55 (11) 5053-2300
+                                    Fax: 55 (11) 5052-4212
+
+
+                                     Email: wtd@weg.net
+                                          www.weg.net
+

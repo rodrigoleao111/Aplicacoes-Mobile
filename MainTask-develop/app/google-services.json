@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162307834123",
+    "project_id": "maintask-48be4",
+    "storage_bucket": "maintask-48be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162307834123:android:acfd1a588e5ff97764a20e",
+        "android_client_info": {
+          "package_name": "com.example.maintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162307834123-tl3ioc3jig57cph8tfjq6nn3arhcdqrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWLtBohxBvBFh2mVehIK4DsVksWf7l0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162307834123-tl3ioc3jig57cph8tfjq6nn3arhcdqrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
