@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356056148775",
+    "project_id": "conecta-doacoes-d4a8a",
+    "storage_bucket": "conecta-doacoes-d4a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356056148775:android:71c72255e0cf890102d702",
+        "android_client_info": {
+          "package_name": "com.example.conectadoacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356056148775-cpga0a6h8pbsjspls8qtfp3ujuls7lkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73Cw6tA8CWHuf1C3uJRtNHIkCwnYPGUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356056148775-cpga0a6h8pbsjspls8qtfp3ujuls7lkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

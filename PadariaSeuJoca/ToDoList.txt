@@ -1,0 +1,16 @@
+[ok] Fazer scroll na tela
+[ok] Página de produtos
+[ok] Botões de ir para categorias
+[ok] Toast produto indisponível
+[] Método adicionar produto
+-----------------------------
+[] Impressão de dados do cadastro
+[] Impressão das compas
+[] Impressão do total individual (qtd*preço)
+[] Impressão total da compra (soma tudo)
+-----------------------------
+[] Botão finalizar compra -> Tela de agradecimento
+[] Botão fazer nova compra -> Voltar ao início
+
+Antônio Luiz Cavalcanti
+081 982579870
