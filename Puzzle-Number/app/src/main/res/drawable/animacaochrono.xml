@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/framechrono_0" android:duration="300" />
+    <item android:drawable="@drawable/framechrono_1" android:duration="300" />
+
+</animation-list>
