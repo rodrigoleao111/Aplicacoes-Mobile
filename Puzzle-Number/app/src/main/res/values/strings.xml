@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Puzzle-Number</string>
+    <string name="title_activity_menu">ActivityMenu</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="dificuldades">
+        <item>Facil</item>
+        <item>Normal</item>
+        <item>Dificil</item>
+    </string-array>
+
+</resources>

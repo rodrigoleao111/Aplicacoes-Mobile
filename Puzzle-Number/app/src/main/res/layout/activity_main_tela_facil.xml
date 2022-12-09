@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivityTelaFacil">
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="300dp"
+        android:layout_height="450dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button00"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+
+            <Button
+                android:id="@+id/button01"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+
+            <Button
+                android:id="@+id/button02"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button03"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+
+            <Button
+                android:id="@+id/button04"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+
+            <Button
+                android:id="@+id/button05"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button06"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+
+            <Button
+                android:id="@+id/button07"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+
+            <Button
+                android:id="@+id/button08"
+                android:layout_width="100dp"
+                android:layout_height="150dp" />
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/textView01"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="44dp" />
+
+    <TextView
+        android:id="@+id/textView02"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toTopOf="@+id/tableLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView01" />
+
+    <Button
+        android:id="@+id/botãoplay0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="play/pause"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.197"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
+
+    <Button
+        android:id="@+id/botãostop0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/botãoplay0"
+        app:layout_constraintTop_toBottomOf="@+id/tableLayout" />
+</androidx.constraintlayout.widget.ConstraintLayout>
